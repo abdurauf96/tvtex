@@ -1,0 +1,26 @@
+html{
+	scroll-behavior: smooth;
+}
+
+.partner__slider--image img{
+	border:0.5rem solid #fff;
+	width:12.1rem;
+	height:12.1rem;
+	border-radius:50%;
+}
+.about__image--wrapper img{
+	border-radius:3rem;
+	width:44.9rem;
+	background-color:#fcff00;
+	height:31.7rem;
+}
+.flash{
+	z-index: 99;
+	position: absolute;
+	right: 0px;
+}
+
+.flash p{
+	font-size: 13pt;
+	text-align: center;
+}
